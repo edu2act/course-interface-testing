@@ -17,4 +17,4 @@ HTTP接口测试可以把后台逻辑单独进行测试，便于模块化测试�
 |第六章|Mock接口框架|Fiddler的使用<br/>PostMan的使用<br/>
 |第七章|RestAssured接口测试|REST API<br/>Rest-Assured框架<br/>
 |第八章|接口开发|Djano基本使用<br/>Djano接口开发<br/>
-|第九章|requets库|requets介绍<br/>requets-GET<br/>requets-POST<br/>
+|第九章|requets库|requets介绍<br/>requets-GET<br/>requets-POST1<br/>
