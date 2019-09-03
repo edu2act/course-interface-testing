@@ -1,3 +1,6 @@
+http://study-perf.qa.netease.com/buy/index.html#/login
 http://study-perf.qa.netease.com/common/skuList?goodsId=1
+20000000000 
+netease123
 http://study-miniblog-new.qa.netease.com/
 https://developer.mozilla.org/zh-CN/docs/Web/HTTP
