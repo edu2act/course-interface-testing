@@ -1,6 +1,12 @@
 http://study-perf.qa.netease.com/buy/index.html#/login
 http://study-perf.qa.netease.com/common/skuList?goodsId=1
 20000000000 
+20000000001
+20000000002
+20000000003
+20000000004
+20000000005
+2000000000099
 netease123
 http://study-miniblog-new.qa.netease.com/
 https://developer.mozilla.org/zh-CN/docs/Web/HTTP
