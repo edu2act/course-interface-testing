@@ -1,3 +1,8 @@
+http://10.7.90.21:8080/supermarket/analysis/lookupprice?goodsCode={"pId":"123456"}
+
+http://10.7.90.21:8080/Supermarket/analysis/palceoreder
+checkout  {"total":"1","record":[{"pNum":1,"pId":"123456"}],"oSum":3}
+
 http://study-perf.qa.netease.com/buy/index.html#/login
 http://study-perf.qa.netease.com/common/skuList?goodsId=1
 20000000000 
